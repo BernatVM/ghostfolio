@@ -11,7 +11,7 @@
       </trans-unit>
       <trans-unit id="7373613501758200135" datatype="html">
         <source>Internationalization</source>
-        <target state="new">Internationalization</target>
+        <target state="translated">Internacionalització</target>
         <context-group purpose="location">
           <context context-type="sourcefile">apps/client/src/app/app-routing.module.ts</context>
           <context context-type="linenumber">79</context>
